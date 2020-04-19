@@ -1,0 +1,2 @@
+# MCSManager-Install-Wiki
+基于MCSManager服务端管理面板的Minecraft服务器多种安装运维方法及疑难问题解决方案
